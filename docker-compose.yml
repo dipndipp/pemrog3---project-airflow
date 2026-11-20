@@ -1,0 +1,3 @@
+# Placeholder — Anggota 3 & 4 will configure PostgreSQL and Apache Airflow services.
+# Add volumes, environment variables, health checks and services during implementation.
+services: {}

@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+# Secrets
+.env
+.env.*
+!.env.example
+# Generated data (preserve folder placeholders)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+# Local runtime/logs
+logs/
+.airflow/
+*.sqlite
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
