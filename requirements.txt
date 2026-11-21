@@ -1,3 +1,5 @@
 # Add pinned dependencies together with implemented modules.
 # Examples to evaluate: pandas, sqlalchemy, psycopg, apache-airflow.
 # Airflow installation should follow the compatible official constraints.
+pandas==3.0.1
+pytest==9.2.0
